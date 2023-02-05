@@ -1,0 +1,10 @@
+{"namespace": "fantoir.avro",
+ "type": "record",
+ "name": "commune",
+ "fields": [
+     {"name": "code", "type": "string"},
+     {"name": "nom",  "type": "string"},
+     {"name": "type_commune",  "type": "string"},
+     {"name": "population", "type": "int"}
+ ]
+}

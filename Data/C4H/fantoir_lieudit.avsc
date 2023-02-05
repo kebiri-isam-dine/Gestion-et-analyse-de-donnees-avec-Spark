@@ -1,0 +1,12 @@
+{"namespace": "fantoir.avro",
+ "type": "record",
+ "name": "lieu_dit",
+ "fields": [
+     {"name": "commune", "type": "string"},
+     {"name": "identifiant", "type": "string"},
+     {"name": "nature",  "type": "string"},
+     {"name": "libelle",  "type": "string"},
+     {"name": "caractere",  "type": "string"},
+     {"name": "voie",  "type": "string"}
+ ]
+}
