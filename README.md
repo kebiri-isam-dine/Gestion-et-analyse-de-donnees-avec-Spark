@@ -19,7 +19,7 @@
 
 
 ## About The Project
-XXXXXXXXXXXX
+Simulation de l'envirenemment Spark pour gérer et analyser des fichiers brutes de données
 
 
 ### Keywords
@@ -66,6 +66,10 @@ Verifier que tous est bien installé
 sudo docker run hello-world
 ```
 
+
+## Usage
+
+
 Récupérer l'image ``Spark``
 
 ```bash
@@ -80,6 +84,9 @@ Création des contenaires à partir du fichier `yml`
 ```bash
 docker-compose up
 ```
+Lancement du master et du worker
+<img src ="Captures/Master-Worker.png">
+
 
 
 ```bash
