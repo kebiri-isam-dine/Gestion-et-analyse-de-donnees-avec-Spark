@@ -69,11 +69,11 @@ sudo docker run hello-world
 Récupérer l'image ``Spark``
 
 ```bash
-
+docker pull gettyimages/spark
 ```
-
+Clonner le repo git de l'image présent [ici](https://github.com/gettyimages/docker-spark.git)
 ```bash
-
+git clone https://github.com/gettyimages/docker-spark.git
 ```
 
 ## License
