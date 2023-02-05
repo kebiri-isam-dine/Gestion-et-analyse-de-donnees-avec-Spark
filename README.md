@@ -76,6 +76,27 @@ Clonner le repo git de l'image présent [ici](https://github.com/gettyimages/doc
 git clone https://github.com/gettyimages/docker-spark.git
 ```
 
+Création des contenaires à partir du fichier `yml`
+```bash
+docker-compose up
+```
+
+
+```bash
+
+```
+
+
+```bash
+
+```
+
+
+```bash
+
+```
+
+
 ## License
 
 [GPL-3.0](https://choosealicense.com/licenses/gpl-3.0/)
